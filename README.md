@@ -1,2 +1,2 @@
-# Sky-Snap-SwiftUI
-This a SwiftUI Weather App
+# Sky-Snap-UIKit
+This a UIKit Weather App
